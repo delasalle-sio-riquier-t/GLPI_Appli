@@ -1,5 +1,7 @@
 {
   "name": "GLPI_Appli",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
